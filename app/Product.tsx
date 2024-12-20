@@ -101,11 +101,11 @@ const styles = StyleSheet.create({
   price: {
     fontSize: 16,
     fontWeight: 'bold',
-    color: '#e91e63',
+    color: '#ba55d3',
     marginBottom: 10,
   },
   addToCartButton: {
-    backgroundColor: '#e91e63',
+    backgroundColor: '#e600e6',
     padding: 10,
     borderRadius: 5,
     flexDirection: 'row',
@@ -124,7 +124,7 @@ const styles = StyleSheet.create({
     gap: "5"
   },
   button: {
-    backgroundColor: '#e91e63',
+    backgroundColor: '#e600e6',
     padding: 5,
     borderRadius: 5,
     alignItems: 'center',
